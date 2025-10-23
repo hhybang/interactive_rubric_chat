@@ -1,4 +1,4 @@
-# 🍎 Rubric Builder Web App
+# 🍎 Rubric-LLM Interactive Chat
 
 A powerful AI-powered web application for creating, managing, and comparing writing rubrics. Perfect for educators, writers, and anyone who wants to develop sophisticated rubrics through conversation with AI.
 
@@ -8,7 +8,7 @@ A powerful AI-powered web application for creating, managing, and comparing writ
 - **📝 Visual Rubric Editor**: Easy-to-use interface for creating and editing rubrics
 - **🔍 Rubric Comparison**: Side-by-side comparison of how different rubrics affect writing
 - **💬 Interactive Chat**: Co-write with AI using your custom rubrics
-- 
+
 ## 🚀 Quick Start (3 Steps)
 
 ### 1. Download & Install

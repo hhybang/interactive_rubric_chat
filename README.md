@@ -34,10 +34,10 @@ pip install watchdog
 export OPENAI_API_KEY="your-api-key-here"
 
 ### 6. Run the app
-streamlit run rubric_web_app.py --server.port {port number} --server.address 0.0.0.0
+streamlit run rubric_web_app.py --server.port {port_number} --server.address 0.0.0.0
 ```
 
-That's it! The app will be available at **http://localhost:{port number}**
+That's it! The app will be available at **http://localhost:{port_number}**
 
 ## 🎯 How to Use
 

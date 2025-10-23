@@ -9,7 +9,7 @@ A powerful AI-powered web application for creating, managing, and comparing writ
 - **🔍 Rubric Comparison**: Side-by-side comparison of how different rubrics affect writing
 - **💬 Interactive Chat**: Co-write with AI using your custom rubrics
 
-## 🚀 Quick Start (3 Steps)
+## 🚀 Quick Start
 
 ### 1. Download & Install
 ```bash
